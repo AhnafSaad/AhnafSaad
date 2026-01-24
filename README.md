@@ -30,13 +30,7 @@ I am an entry-level Software Engineer dedicated to mastering modern frontend tec
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ahnaf's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Ahnaf's GitHub streak" height="150" />
-</div>
 
 ### 📫 Connect with me
-- [cite_start]📧 **Email:** ahnafsadik01857@gmail.com [cite: 2]
-- [cite_start]📍 **Location:** Savar, Dhaka [cite: 2]
+- 📧 **Email:** ahnafsadik01857@gmail.com [cite: 2]
+- 📍 **Location:** Savar, Dhaka [cite: 2]
