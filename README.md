@@ -5,12 +5,12 @@
 </div>
 
 ### 👨🏻‍💻 About Me
-I am an entry-level Software Engineer dedicated to mastering modern frontend technologies and full-stack development[cite: 4]. I enjoy solving complex problems and collaborating with high-performing teams to build scalable applications.
+I am an entry-level Software Engineer dedicated to mastering modern frontend technologies and full-stack development. I enjoy solving complex problems and collaborating with high-performing teams to build scalable applications.
 
--🎓 **Graduated** with a **B.Sc. in Software Engineering** from Daffodil International University (CGPA: 3.20/4.00)[cite: 27, 28].
-- 💻 Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js) through hands-on projects and professional training[cite: 33].
-- 🚀 Built full-stack e-commerce prototypes like **Sustain Sports** and management UI like **Bizcart Superstore**[cite: 16, 21].
-- 🤖 Exploring the intersection of development and automation using **AI Agent Frameworks** and **n8n**[cite: 34, 35].
+-🎓 **Graduated** with a **B.Sc. in Software Engineering** from Daffodil International University.
+- 💻 Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js) through hands-on projects and professional training.
+- 🚀 Built full-stack e-commerce prototypes like **Sustain Sports** and management UI like **Bizcart Superstore**.
+- 🤖 Exploring the intersection of development and automation using **AI Agent Frameworks** and **n8n**.
 - 💬 Ask me about: **React.js, Node.js, and Workflow Automation**.
 
 ### 🛠 Tech Stack
@@ -32,5 +32,5 @@ I am an entry-level Software Engineer dedicated to mastering modern frontend tec
 
 
 ### 📫 Connect with me
-- 📧 **Email:** ahnafsadik01857@gmail.com [cite: 2]
-- 📍 **Location:** Savar, Dhaka [cite: 2]
+- 📧 **Email:** ahnafsadik01857@gmail.com 
+- 📍 **Location:** Savar, Dhaka 
