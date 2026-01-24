@@ -1,7 +1,7 @@
 # Hi there, I'm Ahnaf Sadik Saad 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 ### 👨🏻‍💻 About Me
